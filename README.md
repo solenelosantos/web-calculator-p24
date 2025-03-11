@@ -29,4 +29,4 @@ but it won't do anything until you write the JavaScript.
 
 ## Credits
 
-originally this code was taken from https://www.freecodecamp.org/news/how-to-build-an-html-calculator-app-from-scratch-using-javascript-4454b8714b98/
+originally this code was taken freecodecamp by Zell Liew
